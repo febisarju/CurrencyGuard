@@ -15,7 +15,7 @@ The dataset consists of images of Indian currency notes categorized into:
 - Validation set
 - Test set
 
-Technologies Used
+Technologies Used:
 - Jupyter Notebook
 - TensorFlow & Keras
 - OpenCV
@@ -24,3 +24,5 @@ Technologies Used
 - NumPy
 - OpenCV
 
+Contact:
+Github- https://github.com/febisarju
