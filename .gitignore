@@ -1,0 +1,37 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+*.venv
+*.env
+
+# Ignore dataset (if large or private)
+data/
+*.csv
+*.xlsx
+*.zip
+
+# Ignore trained model (optional if too large)
+currency_detection_model.h5
+*.h5
+*.ckpt
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.out
+*.tmp
+
+# Ignore IDE files
+.vscode/
+*.idea/
+*.sublime-workspace
