@@ -25,4 +25,4 @@ Technologies Used:
 - OpenCV
 
 Contact:
-Github- https://github.com/febisarju
+- Github- https://github.com/febisarju
