@@ -1,4 +1,4 @@
-# CurrencyGuard
+# CurrencyGuard: CNN-Based Counterfeit Detection for Indian Notes
 
 This project implements a Convolutional Neural Network (CNN) to detect counterfeit Indian currency. The model is trained on a balanced dataset containing real and fake currency images and is designed to assist in identifying counterfeit notes with high accuracy. The project also features a user-friendly GUI for real-time detection using image uploads or live camera input.
 
