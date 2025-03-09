@@ -19,7 +19,7 @@ Technologies Used:
 - Jupyter Notebook
 - TensorFlow & Keras
 - OpenCV
-- Tkinter (for GUI)
+- Tkinter
 - Matplotlib
 - NumPy
 - OpenCV
